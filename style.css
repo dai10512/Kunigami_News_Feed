@@ -1,0 +1,48 @@
+/* body{
+ height:100px;
+ background-color: coral;
+} */
+
+.inner{
+ max-width:700px;
+ background-color:thistle;
+ height:2000px;
+ /* display: flex; */
+ justify-content:center;
+ align-items: center;
+ margin:0 auto;
+ padding:20px;
+}
+
+#rss-btn{
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ background-color:cadetblue;
+ padding:10px;
+ border-radius: 10px;
+ color:#ffffff;
+ border: solid;
+ margin-bottom: 10px;
+}
+
+li{
+ margin-top:15px;
+ background-color:palegoldenrod;
+ word-wrap: break-word;
+ padding:18px;
+ border-radius: 10px;
+}
+
+#rss-feed h2{
+ margin-bottom:10px;
+}
+
+#rss-feed p{
+	font-size:10px;
+   }
+
+hr{
+ padding:4px;
+}
+
